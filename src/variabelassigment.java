@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 
-pubgilic class variabelassigment {
+public class variabelassigment {
 
     public static  void main (String[] args){
 //     Membuat Variabek
