@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f354bf-93f7-45ce-8484-eb3270a4c8ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ifelseif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nestedif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kondisitenari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileloop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +74,17 @@
       <updated>1670738928673</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
